@@ -17,7 +17,7 @@ class App extends Component {
     return (
       <div className="App">
         <br />
-        {/* <Hello />
+        <Hello />
         <Greet name="Bruce" heroName="Batman">
           <p>This is children props</p>
         </Greet>
@@ -35,7 +35,7 @@ class App extends Component {
         <ClassClick />
         <EventBind />
         <ParentComponent />
-        <UserGreeting /> */}
+        <UserGreeting />
         <NameList />
       </div>
     )
